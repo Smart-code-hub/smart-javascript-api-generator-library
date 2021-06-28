@@ -20,10 +20,10 @@
     "fs-extra": "^8.1.0",
     "voca": "^1.4.0",
     "prettier": "^1.19.1",
-    "smart-code-core-utility": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-code-core-utility.git",
-    "smart-javascript-api-Controller-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-javascript-api-Controller-library.git",
-    "smart-javascript-api-router-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-javascript-api-router-library.git",
-    "smart-javascript-api-schema-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-javascript-api-schema-library.git"
+    "smart-code-core-utility": "https://github.com/Smart-code-hub/smart-code-core-utility",
+    "smart-javascript-api-Controller-library": "https://github.com/Smart-code-hub/smart-javascript-api-Controller-library.git",
+    "smart-javascript-api-router-library": "https://github.com/Smart-code-hub/smart-javascript-api-router-library.git",
+    "smart-javascript-api-schema-library": "https://github.com/Smart-code-hub/smart-javascript-api-schema-library.git"
  },
   "homepage": "https://github.com/smartcodehubnext/smart-javascript-api-generator-library#readme"
 }
